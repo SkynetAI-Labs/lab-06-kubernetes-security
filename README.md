@@ -1,3 +1,5 @@
+![SkynetAI-Labs Lab 06 — Kubernetes Security](skynet-lab-06.png)
+
 # GitHub DevSecOps Lab 06 — Kubernetes Security
 
 A local Kubernetes security lab covering container hardening, restricted
