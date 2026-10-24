@@ -205,3 +205,9 @@ matching the local post-remediation scan.
 The workflow failed on CKV_K8S_8 and CKV_K8S_9 for the two disposable
 test pods. These findings remain documented and unsuppressed.
 This was a static CI scan, not a Kubernetes deployment in GitHub Actions.
+
+
+## Repository audit — 24 October 2026
+
+See the [dated security audit and prioritised recommendations](SECURITY_AUDIT.md) for the reviewed source commit, verification results, open findings and evidence limitations.
+
